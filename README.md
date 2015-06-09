@@ -5,6 +5,12 @@ to pass 3 periods of his life cycle , get weight ,in the end of the period if yo
 
 That was an advergame for  Moroccan Telecom , Telecom operator Number 1 in morocco .
 
+<img src="splash.jpeg"/>
+<img src="in.jpeg"/>
+<img src="out.jpeg"/>
+<img src="android.jpeg"/>
+
+
 
 <b>Technologies</b> :
 

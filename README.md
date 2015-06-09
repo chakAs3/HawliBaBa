@@ -1,12 +1,12 @@
 # HawliBaBa
 
-<b>Hawli Ba3 Ba3</b> is Kind of Pet game where you have to take care of you pet (sheep ) , perfom operation and action , feed you pet
-to pass 3 periods of his cycle life , get weight , end of period if you are in the top leader-board you win that sheep .
+<b>Hawli Ba3 Ba3</b> is Kind of Pet game where you have to take care of your pet (sheep ) , perform operations and actions , feed your pet
+to pass 3 periods of his life cycle , get weight ,in the end of the period if you are in the top 10 leader-board you win that sheep .
 
-that was an advergame for  Moroccan Telecom , Telecom operator Number 1 in morocco .
+That was an advergame for  Moroccan Telecom , Telecom operator Number 1 in morocco .
 
 
-Technologies :
+<b>Technologies</b> :
 
 I have used
 - <b>Robotlegs</b> as MVC framework , which give a very clear structure and readability to my code .

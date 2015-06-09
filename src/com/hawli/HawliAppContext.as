@@ -196,7 +196,7 @@ package com.hawli
 		
 		override public function startup():void
 		{
-			// Map some Commands to Events
+			// Map the Commands to Events
 			commandMap.mapEvent(ContextEvent.STARTUP_COMPLETE, StartupCommand, ContextEvent);
 			commandMap.mapEvent(OperationEvent.USER_OPERATION, OperationCommand, OperationEvent );
 			commandMap.mapEvent(GameEvent.GET_DATA_HAWLI_TIMER, GetHawliCommand, GameEvent );
@@ -257,7 +257,7 @@ package com.hawli
 			// Manually add the main screen to stage
 			contextView.addChild(new MainScreenView());
 			
-			// And we're done
+			// And we're done , start the app
 			super.startup();
 		}
 	

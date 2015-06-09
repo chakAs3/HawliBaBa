@@ -9,6 +9,6 @@ That was an advergame for  Moroccan Telecom , Telecom operator Number 1 in moroc
 <b>Technologies</b> :
 
 I have used
-- <b>Robotlegs</b> as MVC framework , which give a very clear structure and readability to my code .
+- <b>Robotlegs</b> as MVC framework , which gives a very clear structure and readability to my code .
 - <b>Blitting</b> to gain better performance , by create SpriteSheets for all my characters .
 - <b>AMFPHP</b> , to ensure a fast , secure , and structured communication with the server side

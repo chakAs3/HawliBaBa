@@ -1,0 +1,7 @@
+ Emagin is a framework that i have created along my career with Emagin Digital Agency ,
+
+ Contains :
+ - components : a UI and compoenents used on my Full Flash Application , with complex behavior .
+ - managers : Classes to manage Global animation , files (IO) , languages , screen , navigation .
+ - utils : My utilities , Email validator , Date , Image ...
+ - xml : package to send and get reuest from Server Side , Or local Files

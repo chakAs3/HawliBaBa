@@ -6,6 +6,7 @@ to pass 3 periods of his life cycle , get weight ,in the end of the period if yo
 That was an advergame for  Moroccan Telecom , Telecom operator Number 1 in morocco .
 
 <img src="splash.jpeg"/>
+<img src="hw11.jpg"/>
 <img src="in.jpeg"/>
 <img src="out.jpeg"/>
 <img src="android.jpeg"/>
@@ -16,5 +17,6 @@ That was an advergame for  Moroccan Telecom , Telecom operator Number 1 in moroc
 
 I have used
 - <b>Robotlegs</b> as MVC framework , which gives a very clear structure and readability to my code .
-- <b>Blitting</b> to gain better performance , by create SpriteSheets for all my characters .
+- <b>AS3-Signals</b> which is faster than the AS3 Event model .
+- <b>Blitting</b> to gain better performance , by generating SpriteSheets for all my characters .
 - <b>AMFPHP</b> , to ensure a fast , secure , and structured communication with the server side
